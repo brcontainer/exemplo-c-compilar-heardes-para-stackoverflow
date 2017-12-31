@@ -1,0 +1,1 @@
+gcc libs/minhalib.h libs/minhalib.c main.c -o teste.exe
